@@ -15,7 +15,7 @@ s.author = { "tany" => "122074809@qq.com" }
 # 代码库最低支持的版本
 s.platform = :ios, "7.0"
 # 代码的Clone 地址 和 tag 版本
-s.source = { :git => "https://github.com/12207480/TYPagerController.git", :tag => s.version.to_s }
+s.source = { :git => "https://github.com/xThink/testRepo.git", :tag => s.version.to_s }
 # 如果使用pod 需要导入哪些资源
 s.source_files = "TYPagerControllerDemo/TYPagerController/**/*.{h,m}"
 # s.resources = "**/*/*.bundle"
